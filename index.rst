@@ -9,6 +9,7 @@ Cánon Printer Error 5200
 	  :alt:    
 	  :target: https://canonprintererror5200.readthedocs.io/en/latest/
 
+The **Cánon Printer Error 5200**  is often related to the ink levels present in printer cartridges. Turning your printer off and on again can reset the printer's mechanism for reading ink levels and get you back to printing in no time
 
 Causes and Symptoms of Cánon Printer Error 5200
 ########
